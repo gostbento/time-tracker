@@ -100,4 +100,4 @@ The script supports the following commands:
 Feel free to modify the script or adapt it to your specific needs.
 ```
 
-You can copy this block and paste it directly into your `README.md` file.
+
